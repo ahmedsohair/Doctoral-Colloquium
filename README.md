@@ -1,6 +1,6 @@
 # SAPTA: Style-Aware Prompt-based Text Anonymization
 
-This repository contains references for the poster submitted at RMIT the Doctoral Colloquium 2025. 
+This repository contains references for the poster submitted at RMIT Doctoral Colloquium 2025. 
 
 ---
 
